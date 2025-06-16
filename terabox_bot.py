@@ -2,6 +2,8 @@ import os
 import json
 import requests
 import time
+import telegram
+
 from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes
 import tempfile
