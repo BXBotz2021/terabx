@@ -10,7 +10,7 @@ import asyncio
 
 # Get environment variables
 BOT_TOKEN = os.getenv('BOT_TOKEN')
-TARGET_CHANNEL_ID = int(os.getenv('TARGET_CHANNEL_ID', '-1002550483559'))
+TARGET_CHANNEL_ID = int(os.getenv('TARGET_CHANNEL_ID', '-1002598011167'))
 
 # Terabox API URL
 TERABOX_API = 'https://terabox-pro-api.vercel.app/api'
